@@ -28,3 +28,12 @@ pip install -r requirements.txt
 # OR
 conda env create -f environment.yml
 conda activate luna16-env
+```
+
+What I Learned: 
+- How to handle 3D medical imaging data.
+- Effective model design for medical datasets.
+- Challenges and solutions for classifying lung nodules.
+
+Acknowledgments:
+Special thanks to the contributors of the LUNA16 dataset and the Kaggle community.
